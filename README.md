@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohit-Kumar-3114&label=Profile%20views&color=0e75b6&style=flat" alt="Mohit-Kumar-3114" /> </p>
 
-- 🔭 I’m currently Studying B-Tech in Computer Science Engineering [XenoPay(Paytm Wallet)](https://xeno-pay-user-app.vercel.app/)
-
+- 🔭 I’m currently Studying B-Tech in Computer Science Engineering
 - 👨‍💻 All of my projects are available at [https://mohit-portfolio-psi.vercel.app/](https://mohit-portfolio-psi.vercel.app/)
 
 - 📫 How to reach me **mohitahlawat912@gmail.com**
