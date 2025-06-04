@@ -26,16 +26,23 @@
 
 ### 🧰 Tech Stack
 
-#### 🖥️ Frontend
-![HTML5](https://img.icons8.com/color/48/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript.png)  
-![React](https://img.icons8.com/color/48/react-native.png) ![Next.js](https://img.icons8.com/fluency-systems-regular/48/nextjs.png) ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-
-#### 🧪 Backend & DB
-![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Express](https://img.icons8.com/ios/50/express-js.png)  
-![MongoDB](https://img.icons8.com/color/48/mongodb.png) ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png)
-
-#### 🛠️ Tools
-![Git](https://img.icons8.com/color/48/git.png) ![Docker](https://img.icons8.com/color/48/docker.png) ![Postman](https://img.icons8.com/dusk/48/postman-api.png) ![TypeScript](https://img.icons8.com/color/48/typescript.png)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency-systems-regular/50/nextjs.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
 
 ---
 
@@ -64,4 +71,5 @@
 ---
 
 <p align="center">Thanks for visiting my profile! 😊</p>
+
 
