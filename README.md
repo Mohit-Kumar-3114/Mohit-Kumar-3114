@@ -26,23 +26,47 @@
 
 ### 🧰 Tech Stack
 
-<p align="left">
+#### 👨‍💻 Languages
+<p>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency-systems-regular/50/nextjs.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/>
+</p>
+
+#### 🖼️ Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency-systems-regular/48/nextjs.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40" height="40"/>
+</p>
+
+#### 🔧 Backend
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/windows/48/prisma-orm.png" alt="Prisma ORM" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-jwt-json-web-token-authentication-for-application-token-based-logo-shadow-tal-revivo.png" alt="JWT" width="40" height="40"/>
 </p>
+
+#### 💾 Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/V/vercel-logo-F74855EBCA-seeklogo.com.png" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/render.svg" alt="Render" width="40" height="40"/>
+</p>
+
 
 ---
 
