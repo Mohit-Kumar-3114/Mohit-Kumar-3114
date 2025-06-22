@@ -55,7 +55,7 @@
 `Git` `GitHub` `Bitbucket` `Docker` `Postman` `Vercel` `Render`  
 
 **CS Concepts**:  
-`Data Structures` `Algorithms` `OOP` `DBMS` `OS` `Computer Networks`  
+`Data Structures` `Algorithms` `OOP's` `DBMS` `OS` `Computer Networks`  
 
 ---
 
