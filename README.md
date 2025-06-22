@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<span><h2 align="center">🚀 Software Developer</h2>
-<p align="center">📍 India 🇮🇳</p></span>
+<span><h2 align="center">🚀 Software Developer <p align="center">📍 India 🇮🇳</p> </h2>
+</span>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohit-Kumar-3114&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
