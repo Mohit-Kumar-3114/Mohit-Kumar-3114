@@ -59,21 +59,6 @@
 
 ---
 
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohit-kumar-79866a264/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Mohit-Kumar-3114" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/r7GmjvQEYB/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
