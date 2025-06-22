@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">🚀 Software Developer</h3>
+<h2 align="center">🚀 Software Developer</h2>
 <p align="center">📍 India 🇮🇳</p>
 
 <p align="center">
@@ -15,11 +15,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering @ DITM (GGSIPU)  
-- 💼 Software Developer Intern @ **Cognocore Solution**
-- 👨‍🔬 Former Web Dev Intern @ **IIT Bombay**
-- 🌐 Portfolio: [mohit-portfolio-psi.vercel.app](https://mohit-portfolio-psi.vercel.app/)
-- 📫 Email: **mohitahlawat912@gmail.com**
-- 💡 I love building **AI-integrated full-stack web apps** with React, Next.js, TypeScript & MongoDB.
+- 🌐 Portfolio: [mohit-portfolio-psi.vercel.app](https://mohit-portfolio-psi.vercel.app/)  
+- 📫 Email: **mohitahlawat912@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/mohit-kumar-79866a264](https://www.linkedin.com/in/mohit-kumar-79866a264)
 
    </td>
    <td width="40%">
