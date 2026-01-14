@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering @ DITM (GGSIPU)  
-- 🌐 Portfolio: [mohit-portfolio-psi.vercel.app](https://mohit-portfolio-psi.vercel.app/)  
+- 🌐 Portfolio: [https://mohit-portfolio-dcym.vercel.app/](https://mohit-portfolio-dcym.vercel.app/)  
 - 📫 Email: **mohitahlawat912@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/mohit-kumar-79866a264](https://www.linkedin.com/in/mohit-kumar-79866a264)
 
