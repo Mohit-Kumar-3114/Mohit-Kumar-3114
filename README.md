@@ -32,6 +32,9 @@
 **🔹 Software Developer Intern @ Cognocore Solution**  
 *Mar 2025 – Present*
 
+**🔹 MERN Stack Intern @ Codig Blocks**  
+*Sep 2025 – Jan 2026*
+
 **🔹 Web Developer Intern @ IIT Bombay**  
 *Sep 2024 – Oct 2024*
 
@@ -40,7 +43,7 @@
 ### 🧠 Skills
 
 **Languages**:  
-`C++` `JavaScript` `TypeScript` `HTML` `CSS`  
+`Java` `JavaScript` `TypeScript` `HTML` `CSS`  
 
 **Frontend**:  
 `React.js` `Next.js` `Tailwind CSS` `Redux` `Material UI`  
